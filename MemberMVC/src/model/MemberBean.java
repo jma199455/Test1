@@ -3,7 +3,7 @@ package model;
 public class MemberBean {
 
 	private	String id;
-	private	String pass1;
+	private	String paaaaa3;
 	private	String pass2;
 	private	String email;
 	private	String tel;
